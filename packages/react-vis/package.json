@@ -79,7 +79,7 @@
     "prettier": "^1.14.2",
     "react": "^16.0.0",
     "react-addons-test-utils": ">=15.4.2",
-    "react-dom": "^16.0.0",
+    "react-dom": "^18.0.0",
     "react-test-renderer": "^16.13.1",
     "react-vis-showcase": "^0.1.0",
     "regenerator-runtime": "^0.13.11",
@@ -88,8 +88,8 @@
     "uglify-js": "^2.8.22"
   },
   "peerDependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "keywords": [
     "d3",
